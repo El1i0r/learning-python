@@ -5,4 +5,7 @@ I won't look into issues, this basically a diary, so have fun
 
 ## Log 1/Day 1
 After alot of procastination, i decided it is finally time to actually learn something, so here it goes, I learnt basic variable definition and ofc print
+What i made was a simple rickroll through print instead of
+```print("Hello World")```
+Try it yourself, write anything with print!
 The code of what i made is present in Try/Day1/Code, everything will remain in the try folder till i reach Day 14, afterwards it will move to Logs, stuff that will become true programs will be in StuffThatWorked/NameOfIt/code
